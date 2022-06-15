@@ -1,0 +1,19 @@
+segment_sources:
+  IC1F9A483:
+    type: origin_type
+    relation: translation
+    language: en
+  I5554CC9C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  78c8cfef37544a349132286d14fda65f:
+    IC1F9A483: 59bb7499c9e64900b418cc736b8a50da
+    I5554CC9C: 97b8a383b51b41bebbf1384397a4b2bb
+  712b66ce00624bfab4e58dfbd34dfc98:
+    IC1F9A483: 3d9c41b347f74611ad29112394d17f1b
+    I5554CC9C: 0655a36a30cc4c8e9fea544495cb4d33
+  2104616960474bc4a5590740647e5ca2:
+    IC1F9A483: 8ec60d179bd4460384ffa3473076c6f2
+    I5554CC9C: 135b83469e20404e9125b4a00e4f70a4
